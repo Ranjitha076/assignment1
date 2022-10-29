@@ -1,1 +1,2 @@
 This is my first git repo training
+I am adding 2nd line
